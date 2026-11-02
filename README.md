@@ -2,7 +2,7 @@
 
 <h3>NAME: Dharshini S N</h3>
 <h3>REGISTER NO.: 212224230062</h3>
-<h3>DATE: 02/08/26</h3>
+<h3>DATE: 02/11/26</h3>
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
